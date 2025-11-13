@@ -1,8 +1,6 @@
 # 🏆 My Certificates
 
-### 📚 Programming & Development
-- [JavaScript (Coursera)](https://github.com/YourUsername/Certificates/blob/main/JavaScript.pdf)
-- [React Frontend Development](https://github.com/YourUsername/Certificates/blob/main/React.pdf)
+https://github.com/Developershaha/My-Certifications/blob/master/Namaste-Javascript.webp
 
 ### ☁️ Cloud & DevOps
 - [AWS Fundamentals](https://github.com/YourUsername/Certificates/blob/main/AWS_Fundamentals.pdf)
