@@ -14,11 +14,7 @@
 
 ### 📜 React – The Complete Guide 2025 (Udemy)
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Developershaha/My-Certifications/master/React-The-Complete-Guide-2025.webp"
-    width="700"
-    alt="React The Complete Guide 2025 Certificate"
-  />
+  <img src="https://github.com/Developershaha/My-Certifications/blob/master/UC-5efff2fd-b8a5-449f-baf7-145856ebadd2.jpg" width="600" alt="Namaste JavaScript Certificate"
 </p>
 ---
 
